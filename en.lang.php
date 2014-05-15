@@ -11,18 +11,19 @@ $LANG['Index']['OnlyLogin'] = "You have to log in to see this area!";
 
 
 // Page User
-$LANG['Page']['User']['Account']['Mail']['Change']['Newnotsame'] = "Your entered new-E-mail adresses don't match. Please retry.";
-$LANG['Page']['User']['Account']['Mail']['Change']['Oldnotsame'] = "Your entered old-E-mail doesnt match our records. Please retry.";
-$LANG['Page']['User']['Account']['Mail']['Change']['Success'] = "Your E-Mail adress has succesfully been changed.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Newnotsame'] = "Your entered new-E-mail adresses don't match. Please retry.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Oldnotsame'] = "Your entered old-E-mail doesnt match our records. Please retry.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Success'] = "Your E-Mail adress has succesfully been changed.";
 $LANG['User']['Changemail']['Title'] = "Changes on your Gameaccount";
 $LANG['User']['Changemail']['Text']= "Dear {username},\\r\\n\r\n\\r\\n\r\nyour German-Crimetime account has been changed via. our User Control-Panel..\\r\\n\r\n\\r\\n\r\n\\r\\n\r\n<strong> Changes: {what} has been changed to {inwhat} </strong> \\r\\n\r\nYours,\\r\\n\r\nthe German Crimetime Team";
 $LANG['Page']['User']['Account']['Mail']['Button'] = "Change E-Mail adress";
-$LANG['Page']['User']['Account']['Email']['New']['Repeat'] = "Repeat your new E-Mail adress:";
-$LANG['Page']['User']['Account']['Email']['New'] = "Enter your new E-Mail adress:";
+$LANG['Page']['User']['Account']['EMail']['New'][1] = "Repeat your new E-Mail adress:";
+$LANG['Page']['User']['Account']['Email']['New'][0] = "Enter your new E-Mail adress:";
 $LANG['Page']['User']['Account']['Passwort']['Heading'] = "Change account password";
+$LANG['Page']['User']['Account']['EMail']['Heading'] = "Change E-Mail";
 $LANG['Page']['User']['Account']['Passwort']['Old'] = "Your password: ";
-$LANG['Page']['User']['Account']['Passwort']['New'] = "Your new Password: ";
-$LANG['Page']['User']['Account']['Passwort']['New']['Repeat'] = "Repeat your new Password: ";
+$LANG['Page']['User']['Account']['Passwort']['New'][0] = "Your new Password: ";
+$LANG['Page']['User']['Account']['Passwort']['New'][1] = "Repeat your new Password: ";
 $LANG['Page']['User']['Account']['Passwort']['Button'] = "Change account password";
 $LANG['Page']['User']['Account']['Passwort']['Change']['Success'] = "<strong>Success!</strong>Your password has been successfully changed. Your will be logged out now.";
 $LANG['Page']['User']['Account']['Passwort']['Change']['Oldnotsame'] = "<strong>Error!</strong> Your entered password does not match our records.";
@@ -46,10 +47,10 @@ $LANG['Page']['Ts3']['Form']['Error']['NotFound'] = "<h4>Information:</h4>Your e
 
 
 // Page API
-$LANG['Page']['Api']['Home']['Input']['Label'] = "Your API key";
+$LANG['Page']['Api']['Home']['Input']['Success']['NewKey'] = "Your generated a new API Key. Your API Key: {apikey}\r\n";
 $LANG['Page']['Api']['Home']['Button'] = "Request new API key";
-$LANG['Page']['Api']['Home']['Success'] = "You generated a new API key. Key: {apikey}\r\n";
-
+$LANG['Page']['Api']['Home']['Delete'] = "Delete API Key";
+$LANG['Page']['Api']['Home']['Success']['DelKey'] = "<strong>Success!</strong> Your API Key has been deleted.";
 
 
 // Team Ranks
@@ -136,6 +137,7 @@ $LANG['Page']['Profil']['KD'] = "Kills/Deaths (KD)";
 $LANG['Page']['Profil']['Playtime']['Title'] = "Total played:";
 $LANG['Page']['Profil']['Playtime']['Normal'] = "{days} Days {hours} Hours {mins} Minutes and {secs} Seconds";
 $LANG['Page']['Profil']['Playtime']['Jail'] = "Thereof in prison: {days} Days {hours} Hours {mins} Minutes and {secs} Seconds";
+$LANG['Page']['Profil']['RobberSkills'] = "Robber skills";
 
 
 ?>

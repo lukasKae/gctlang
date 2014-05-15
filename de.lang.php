@@ -137,6 +137,7 @@ $LANG['Page']['Profil']['KD'] = "Kills/Deaths (KD)";
 $LANG['Page']['Profil']['Playtime']['Title'] = "Spielzeit:";
 $LANG['Page']['Profil']['Playtime']['Normal'] = "{days} Tage {hours} Stunden {mins} Minuten und {secs} Sekunden";
 $LANG['Page']['Profil']['Playtime']['Jail'] = "davon im Knast : {days} Tage {hours} Stunden {mins} Minuten und {secs} Sekunden";
+$LANG['Page']['Profil']['RobberSkills'] = "Robberskills:";
 
 
 ?>
