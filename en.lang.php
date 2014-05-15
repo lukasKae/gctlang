@@ -113,7 +113,7 @@ $LANG['Index']['Usermenu']['Devpanel'] = "Developerpanel";
 
 
 // Page Home
-$LANG['Page']['Home']['ServerInfo'] = "Serverinformations";
+$LANG['Page']['Home']['ServerInfo']['Title'] = "Serverinformations";
 $LANG['Page']['Home']['ServerInfo']['Samp'] = "SAMP Server:";
 $LANG['Page']['Home']['ServerInfo']['Ts'] = "Teamspeak3 Server:";
 $LANG['Page']['Home']['ServerInfo']['Board'] = "Board:";
