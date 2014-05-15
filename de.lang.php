@@ -17,8 +17,8 @@ $LANG['Page']['User']['Account']['EMail']['Change']['Success'] = "Deine E-Mail w
 $LANG['User']['Changemail']['Title'] = "Änderung deiner Nutzerdaten";
 $LANG['User']['Changemail']['Text'] = "Guten Tag Lieber {username},\\r\\n\r\n\\r\\n\r\ndein Account wurde auf dem Server German-Crimetime über das Control Panel bearbeitet.\\r\\n\r\n\\r\\n\r\n\\r\\n\r\n<strong> Änderung: {what} geändert zu {inwhat} </strong> \\r\\n\r\nMit freundlichen Grüßen\\r\\n\r\nDas German Crimetime Team";
 $LANG['Page']['User']['Account']['EMail']['Button'] = "E-Mail ändern";
-$LANG['Page']['User']['Account']['Email']['New'][1] = "Wiederhole deine neue E-Mail:";
-$LANG['Page']['User']['Account']['Email']['New'][0] = "Gebe deine neue E-Mail ein:";
+$LANG['Page']['User']['Account']['EMail']['New'][1] = "Wiederhole deine neue E-Mail:";
+$LANG['Page']['User']['Account']['EMail']['New'][0] = "Gebe deine neue E-Mail ein:";
 $LANG['Page']['User']['Account']['Passwort']['Heading'] = "Passwort ändern";
 $LANG['Page']['User']['Account']['EMail']['Heading'] = "E-Mail ändern";
 $LANG['Page']['User']['Account']['Passwort']['Old'] = "Dein aktuelles Passwort: ";
@@ -47,10 +47,10 @@ $LANG['Page']['Ts3']['Form']['Error']['NotFound'] = "<h4>Information:</h4>Die an
 
 
 // Page API
-$LANG['Page']['Api']['Home']['Input']['Label'] = "Dein API Key";
 $LANG['Page']['Api']['Home']['Button'] = "Neuen Key anfordern";
-$LANG['Page']['Api']['Home']['Success'] = "Du hast einen neuen API Key generiert. Dieser lautet: {apikey}\r\n";
-
+$LANG['Page']['Api']['Home']['Success']['NewKey'] = "Du hast einen neuen API Key generiert. Dieser lautet: {apikey}\r\n";
+$LANG['Page']['Api']['Home']['Delete'] = "API Key Löschen";
+$LANG['Page']['Api']['Home']['Success']['DelKey'] = "<strong>Erfolgreich!</strong> Der API Key wurde gelöscht.";
 
 
 // Team Ranks
