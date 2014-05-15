@@ -11,18 +11,19 @@ $LANG['Index']['OnlyLogin'] = "Dieser Bereich ist nur für eingeloggte User verf
 
 
 // Page User
-$LANG['Page']['User']['Account']['Mail']['Change']['Newnotsame'] = "Die Wiederholung der neuen E-Mail Addresse stimmt nicht überein.";
-$LANG['Page']['User']['Account']['Mail']['Change']['Oldnotsame'] = "Die Wiederholung deiner alten E-Mail Addresse stimmt nicht überein.";
-$LANG['Page']['User']['Account']['Mail']['Change']['Success'] = "Deine E-Mail wurde erfolgreich geändert.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Newnotsame'] = "Die Wiederholung der neuen E-Mail Addresse stimmt nicht überein.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Oldnotsame'] = "Die Wiederholung deiner alten E-Mail Addresse stimmt nicht überein.";
+$LANG['Page']['User']['Account']['EMail']['Change']['Success'] = "Deine E-Mail wurde erfolgreich geändert.";
 $LANG['User']['Changemail']['Title'] = "Änderung deiner Nutzerdaten";
 $LANG['User']['Changemail']['Text'] = "Guten Tag Lieber {username},\\r\\n\r\n\\r\\n\r\ndein Account wurde auf dem Server German-Crimetime über das Control Panel bearbeitet.\\r\\n\r\n\\r\\n\r\n\\r\\n\r\n<strong> Änderung: {what} geändert zu {inwhat} </strong> \\r\\n\r\nMit freundlichen Grüßen\\r\\n\r\nDas German Crimetime Team";
-$LANG['Page']['User']['Account']['Mail']['Button'] = "E-Mail ändern";
-$LANG['Page']['User']['Account']['Email']['New']['Repeat'] = "Wiederhole deine neue E-Mail:";
-$LANG['Page']['User']['Account']['Email']['New'] = "Gebe deine neue E-Mail ein:";
+$LANG['Page']['User']['Account']['EMail']['Button'] = "E-Mail ändern";
+$LANG['Page']['User']['Account']['Email']['New'][1] = "Wiederhole deine neue E-Mail:";
+$LANG['Page']['User']['Account']['Email']['New'][0] = "Gebe deine neue E-Mail ein:";
 $LANG['Page']['User']['Account']['Passwort']['Heading'] = "Passwort ändern";
+$LANG['Page']['User']['Account']['EMail']['Heading'] = "E-Mail ändern";
 $LANG['Page']['User']['Account']['Passwort']['Old'] = "Dein aktuelles Passwort: ";
-$LANG['Page']['User']['Account']['Passwort']['New'] = "Dein neues Passwort: ";
-$LANG['Page']['User']['Account']['Passwort']['New']['Repeat'] = "Wiederhole dein neues Passwort: ";
+$LANG['Page']['User']['Account']['Passwort']['New'][0] = "Dein neues Passwort: ";
+$LANG['Page']['User']['Account']['Passwort']['New'][1] = "Wiederhole dein neues Passwort: ";
 $LANG['Page']['User']['Account']['Passwort']['Button'] = "Passwort ändern";
 $LANG['Page']['User']['Account']['Passwort']['Change']['Success'] = "<strong>Erfolgreich!</strong>Du hast dein Passwort erfolgreich geändert. Zur Sicherheit wirst du nun abgemeldet.";
 $LANG['Page']['User']['Account']['Passwort']['Change']['Oldnotsame'] = "<strong>Fehler!</strong> Das eingegebene alte Passwort stimmt nicht mit der Datenbank überein.";
