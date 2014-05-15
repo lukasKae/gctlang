@@ -67,6 +67,7 @@ $LANG['Team']['Ranks']['WebDeveloper'] = "Web Developer";
 $LANG['Page']['Serverstats']['Userstatistics']['Title'] = "Nutzerstatistik";
 $LANG['Page']['Serverstats']['Groupstatistics']['Title'] = "Gruppenstatistiken";
 $LANG['Page']['Serverstats']['Team']['Title'] = "Das GCT Team";
+$LANG['Page']['Serverstats']['Team']['Rank'] = "Teamposition";
 $LANG['Page']['Serverstats']['Userstatistics']['Coplevel']['Title'] = "Top 10 nach Coplevel";
 $LANG['Page']['Serverstats']['Userstatistics']['Ganglevel']['Title'] = "Top 10 nach Ganglevel";
 $LANG['Page']['Serverstats']['Userstatistics']['Money']['Title'] = "Top 10 nach Geld";
@@ -85,7 +86,6 @@ $LANG['Page']['Serverstats']['Groupstatistics']['Money'] = "Gruppenkasse";
 $LANG['Page']['Serverstats']['Groupstatistics']['Kills'] = "Kills";
 $LANG['Page']['Serverstats']['Groupstatistics']['Deaths'] = "Deaths";
 $LANG['Page']['Serverstats']['Groupstatistics']['Member'] = "Mitglieder";
-$LANG['Page']['Serverstats']['Team']['Rank'] = "Teamposition";
 
 
 // Page Login & Logout

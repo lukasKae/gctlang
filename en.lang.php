@@ -64,18 +64,18 @@ $LANG['Team']['Ranks']['WebDeveloper'] = "Web Developer";
 
 
 // Page Serverstats
-$LANG['Page']['Serverstats']['Userstatistics'] = "User statistics";
-$LANG['Page']['Serverstats']['Groupstatistics'] = "Group statistics";
+$LANG['Page']['Serverstats']['Userstatistics']['Title'] = "User statistics";
+$LANG['Page']['Serverstats']['Groupstatistics']['Title'] = "Group statistics";
 $LANG['Page']['Serverstats']['Team']['Title'] = "GCT Team";
 $LANG['Page']['Serverstats']['Team']['Rank'] = "Team Rank";
-$LANG['Page']['Serverstats']['Userstatistics']['Coplevel'] = "Top 10 by Cop level";
-$LANG['Page']['Serverstats']['Userstatistics']['Ganglevel'] = "Top 10 by Gang level";
-$LANG['Page']['Serverstats']['Userstatistics']['Money'] = "Top 10 by Money";
-$LANG['Page']['Serverstats']['Userstatistics']['Deaths'] = "Top 10 by Deaths";
-$LANG['Page']['Serverstats']['Userstatistics']['Kills'] = "Top 10 by Kills";
-$LANG['Page']['Serverstats']['Userstatistics']['Place'] = "Rank";
-$LANG['Page']['Serverstats']['Userstatistics']['Name'] = "Username";
-$LANG['Page']['Serverstats']['Userstatistics']['Level'] = "Level";
+$LANG['Page']['Serverstats']['Userstatistics']['Coplevel']['Title'] = "Top 10 by Cop level";
+$LANG['Page']['Serverstats']['Userstatistics']['Ganglevel']['Title'] = "Top 10 by Gang level";
+$LANG['Page']['Serverstats']['Userstatistics']['Money']['Title'] = "Top 10 by Money";
+$LANG['Page']['Serverstats']['Userstatistics']['Deaths']['Title'] = "Top 10 by Deaths";
+$LANG['Page']['Serverstats']['Userstatistics']['Kills']['Title'] = "Top 10 by Kills";
+$LANG['Page']['Serverstats']['Userstatistics']['Place']['Show'] = "Rank";
+$LANG['Page']['Serverstats']['Userstatistics']['Name']['Show'] = "Username";
+$LANG['Page']['Serverstats']['Userstatistics']['Level']['Show'] = "Level";
 $LANG['Page']['Serverstats']['Userstatistics']['Money']['Show'] = "Money";
 $LANG['Page']['Serverstats']['Userstatistics']['Deaths']['Show'] = "Deaths";
 $LANG['Page']['Serverstats']['Userstatistics']['Kills']['Show'] = "Kills";
@@ -84,8 +84,8 @@ $LANG['Page']['Serverstats']['Groupstatistics']['Money'] = "Group money";
 $LANG['Page']['Serverstats']['Groupstatistics']['Kills'] = "Kills";
 $LANG['Page']['Serverstats']['Groupstatistics']['Deaths'] = "Deaths";
 $LANG['Page']['Serverstats']['Groupstatistics']['Member'] = "Members";
-$LANG['Page']['Serverstats']['Userstatistics']['Derby']['Wins'] = "Won Derbys";
-$LANG['Page']['Serverstats']['Userstatistics']['Derby'] = "Top 10 by Derbys";
+$LANG['Page']['Serverstats']['Userstatistics']['Derby']['Show'] = "Won Derbys";
+$LANG['Page']['Serverstats']['Userstatistics']['Derby']['Title'] = "Top 10 by Derbys";
 
 
 // Page Login & Logout
